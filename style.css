@@ -5,12 +5,7 @@ body{
     padding: 20px;
 }
 
-h1 {
+h1, h2{
    color: rgb(22, 166, 0);
    text-align: center;
-}
-
-h2 {
-    color: aquamarine;
-    text-align: center;
 }
